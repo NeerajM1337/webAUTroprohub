@@ -258,10 +258,11 @@
                     <th scope="col">SP_Id</th>
                     <th scope="col">Name</th>
                     <th scope="col">Phone No</th>
-                    <th scope="col">Status</th>
                     <th scope="col">Type</th>
                     <th scope="col">Amount</th>
                     <th scope="col">Date</th>
+                    <th scope="col">Status</th>
+
 
 
                     <!-- <th scope="col">SP_TYPE</th>
@@ -279,10 +280,11 @@
                     <td>SP111</td>
                     <td>anto</td>
                     <td>9906576547</td>
-                    <td>Paid</td>
                     <td>COD</td>
                     <td>990</td>
                     <td>12/02/2023</td>
+                    <td>Paid</td>
+
 
                     <!-- <td>Rentalservices</td>
 

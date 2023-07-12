@@ -245,6 +245,8 @@
               <!-- Table with stripped rows -->
               <table class="table table-striped">
                 <thead>
+                  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
                   <tr>
                     <th scope="col">SLno</th>
                     <th scope="col">R_Id</th>
@@ -267,7 +269,14 @@
                     <td>r101</td>
                     <td>usr101</td>
                     <td>sp333</td>
-                    <td ><i class="fas fa-regular fa-star"></i> 3 star </td>
+                    <td >
+                    
+                        <i class="fas fa-star" style="color: gold;"></i>
+                        <i class="fas fa-star" style="color: gold;"></i>
+                        <i class="fas fa-star" style="color: gold;"></i>
+                    
+                      
+                    </td>
                     <td>21/02/2023</td>
 
 
